@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Maryam Abdulle
-
 
 ### Welcome to my GitHub profile!
+- 👋 Hi, I’m Maryam Abdulle
 - 👀 I’m a Full Stack Software Engineer 
 - 📫  You can reach me through this email:  iammaryamabdulle@gmail.com 
 
