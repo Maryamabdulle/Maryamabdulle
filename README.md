@@ -3,7 +3,6 @@
 
 ### Welcome to my GitHub profile!
 - 👀 I’m a Full Stack Software Engineer 
-- 🌱 I’m currently learning ...
 - 📫  You can reach me through this email:  iammaryamabdulle@gmail.com 
 
 <!---
